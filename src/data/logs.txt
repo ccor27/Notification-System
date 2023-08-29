@@ -1,0 +1,7 @@
+LOG: the user: [arya', arya@gmail.com', 3209567294'] received the message by FINANCE successfully at [2023-08-29T20:53:39.064] via sms
+LOG: the user: [arya', arya@gmail.com', 3209567294'] received the message by FINANCE successfully at [2023-08-29T20:53:39.064] via Push notification
+LOG: the user: [arya', arya@gmail.com', 3209567294'] received the message by FINANCE successfully at [2023-08-29T20:53:39.063] via email
+LOG: the user: [john', john@gmail.com', 3209567294'] received the message by FINANCE successfully at [2023-08-29T20:53:39.063] via sms
+LOG: the user: [maria', maria@gmail.com', 3209567294'] received the message by FINANCE successfully at [2023-08-29T20:53:39.063] via sms
+LOG: the user: [peter', peter@gmail.com', 3209567294'] received the message by FINANCE successfully at [2023-08-29T20:53:39.062] via Push notification
+LOG: the user: [peter', peter@gmail.com', 3209567294'] received the message by FINANCE successfully at [2023-08-29T20:53:39.060] via email
